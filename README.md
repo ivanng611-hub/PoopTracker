@@ -1,2 +1,0 @@
-# PoopTracker
-Privacy Policy
